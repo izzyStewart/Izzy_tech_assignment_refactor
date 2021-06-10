@@ -1,0 +1,9 @@
+tfidf_parameters:
+  max_df: 0.008
+  max_features: 10000
+  min_df: 0.002
+  use_idf: True
+  ngram_range_start: 1
+  ngram_range_end: 3
+
+number_of_clusters: 10
